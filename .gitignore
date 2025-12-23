@@ -1,0 +1,15 @@
+.env
+.env.local
+state/
+!state/.gitkeep
+logs/
+!logs/.gitkeep
+models/*.pkl
+!models/.gitkeep
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.vscode/
+.idea/
+.DS_Store
